@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ReactOnlinePay/static/css/main.aabaedbe.css",
-    "main.js": "/ReactOnlinePay/static/js/main.f43f0612.js",
+    "main.js": "/ReactOnlinePay/static/js/main.5b725b44.js",
     "index.html": "/ReactOnlinePay/index.html",
     "main.aabaedbe.css.map": "/ReactOnlinePay/static/css/main.aabaedbe.css.map",
-    "main.f43f0612.js.map": "/ReactOnlinePay/static/js/main.f43f0612.js.map"
+    "main.5b725b44.js.map": "/ReactOnlinePay/static/js/main.5b725b44.js.map"
   },
   "entrypoints": [
     "static/css/main.aabaedbe.css",
-    "static/js/main.f43f0612.js"
+    "static/js/main.5b725b44.js"
   ]
 }
