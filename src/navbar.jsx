@@ -12,7 +12,7 @@ const Navbar = () => {
               
             </a>
             <figure>
-            <img src="./build/Images/pic18.png"className="navbar-brand" alt="logo" />
+            <img src="Images/pic18.png"className="navbar-brand" alt="logo" />
             </figure>
             
             <button
