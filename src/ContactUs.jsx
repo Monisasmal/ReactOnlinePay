@@ -81,7 +81,7 @@ const ContactUs = () => {
                   </p>
                   <figure>
                     <img
-                      src="./Images/pic1.png"
+                      src="./ReactOnlinePay/Images/pic1.png"
                       alt="contactUs"
                       className="img-fluid"
                     />
