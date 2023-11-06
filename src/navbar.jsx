@@ -12,7 +12,7 @@ const Navbar = () => {
               
             </a>
             <figure>
-            <img src="../Images/pic18.png"className="navbar-brand" alt="logo" />
+            <img src="./ReactOnlinePay/Images/pic18.png"className="navbar-brand" alt="logo" />
             </figure>
             
             <button
