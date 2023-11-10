@@ -31,7 +31,7 @@ const Header = () => {
           
             <div className="col-12 col-lg-6 header-right-side d-flex justify-content-center 
             align-items-center main-herosection-images order-md-first order-sm-first">
-                <img src="./Images/pic9.jpeg"alt="heroImg" className="img-fluid"/>
+                <img src="https://lottie.host/7e2f0b88-2dda-4b24-95bd-cb7983ab5fe6/hqGVZZwSBU.json"alt="heroImg" className="img-fluid"/>
                 <img src="./Images/pic3.jpg"alt="heroImg" className="img-fluid main-hero-img3"/>
                 <img src="./Images/pic2.jpg"alt="heroImg" className="img-fluid main-hero-img2"/>
             </div>
