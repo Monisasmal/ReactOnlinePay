@@ -64,6 +64,22 @@ It is suitable for showcasing **React Router concepts** in interviews and portfo
 <img width="1366" height="646" alt="image" src="https://github.com/user-attachments/assets/39c4b3d1-b4e8-4f5c-96b1-ef8791bc3e7b" />
 <img width="1366" height="389" alt="image" src="https://github.com/user-attachments/assets/e142c185-08c2-41ee-a9e3-c51088d72373" />
 
+----
+
+## 🙋‍♀️ Author
+
+Manaswini Sasmal
+
+📲 - 6370094643
+ 
+👩‍💻 Frontend Developer | React Enthusiast
+
+🔗 Portfolio - https://manaswini-portfolio.vercel.app/
+
+📧 manaswinisasmal5597@gmail.com
+
+🔗 LinkedIn - https://www.linkedin.com/in/manaswini-sasmal-b77a21162/
+
 
 
 
