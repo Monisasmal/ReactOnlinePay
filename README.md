@@ -47,4 +47,25 @@ It is suitable for showcasing **React Router concepts** in interviews and portfo
 
 ---
 
+⚙️ How the App Works (Interview Ready)
+
+- The application starts on the home page
+- Navigation between pages is handled using React Router
+- Page transitions happen without browser reload
+- Each page is built as a separate React component
+- Routing logic is centralized inside App.js
+- The app is deployed using GitHub Pages
+
+----
+
+## Preview
+<img width="1366" height="726" alt="image" src="https://github.com/user-attachments/assets/bb02fe93-da2b-4855-b62b-5857e7f7ed0d" />
+<img width="1366" height="635" alt="image" src="https://github.com/user-attachments/assets/5b6214a5-febf-4e42-9ba2-dc59edd9273d" />
+<img width="1366" height="646" alt="image" src="https://github.com/user-attachments/assets/39c4b3d1-b4e8-4f5c-96b1-ef8791bc3e7b" />
+<img width="1366" height="389" alt="image" src="https://github.com/user-attachments/assets/e142c185-08c2-41ee-a9e3-c51088d72373" />
+
+
+
+
+
 
