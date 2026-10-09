@@ -66,9 +66,7 @@ It is suitable for showcasing **React Router concepts** in interviews and portfo
 
 ----
 
-## 🙋‍♀️ Author
-
-Manaswini Sasmal
+## 🙋‍♀️ Author - Manaswini Sasmal
 
 📲 - 6370094643
  
